@@ -1,0 +1,3 @@
+# FollowMAUI
+
+A template repo
